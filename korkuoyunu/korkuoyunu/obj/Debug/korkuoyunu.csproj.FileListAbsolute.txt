@@ -1,0 +1,30 @@
+C:\Users\almil\source\repos\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.csprojAssemblyReference.cache
+C:\Users\almil\source\repos\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.Form1.resources
+C:\Users\almil\source\repos\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.Properties.Resources.resources
+C:\Users\almil\source\repos\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.csproj.GenerateResource.cache
+C:\Users\almil\source\repos\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.csproj.CoreCompileInputs.cache
+C:\Users\almil\source\repos\korkuoyunu\korkuoyunu\bin\Debug\korkuoyunu.exe.config
+C:\Users\almil\source\repos\korkuoyunu\korkuoyunu\bin\Debug\korkuoyunu.exe
+C:\Users\almil\source\repos\korkuoyunu\korkuoyunu\bin\Debug\korkuoyunu.pdb
+C:\Users\almil\source\repos\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.exe
+C:\Users\almil\source\repos\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.pdb
+A:\ders notları\3.2. Dönem\algoritma\projeler\2 Korku Oyunu\korkuoyunu\korkuoyunu\bin\Debug\korkuoyunu.exe.config
+A:\ders notları\3.2. Dönem\algoritma\projeler\2 Korku Oyunu\korkuoyunu\korkuoyunu\bin\Debug\korkuoyunu.exe
+A:\ders notları\3.2. Dönem\algoritma\projeler\2 Korku Oyunu\korkuoyunu\korkuoyunu\bin\Debug\korkuoyunu.pdb
+A:\ders notları\3.2. Dönem\algoritma\projeler\2 Korku Oyunu\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.csprojAssemblyReference.cache
+A:\ders notları\3.2. Dönem\algoritma\projeler\2 Korku Oyunu\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.Form1.resources
+A:\ders notları\3.2. Dönem\algoritma\projeler\2 Korku Oyunu\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.Properties.Resources.resources
+A:\ders notları\3.2. Dönem\algoritma\projeler\2 Korku Oyunu\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.csproj.GenerateResource.cache
+A:\ders notları\3.2. Dönem\algoritma\projeler\2 Korku Oyunu\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.csproj.CoreCompileInputs.cache
+A:\ders notları\3.2. Dönem\algoritma\projeler\2 Korku Oyunu\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.exe
+A:\ders notları\3.2. Dönem\algoritma\projeler\2 Korku Oyunu\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.pdb
+C:\Users\Casper\Desktop\korkuoyunu\korkuoyunu\bin\Debug\korkuoyunu.exe.config
+C:\Users\Casper\Desktop\korkuoyunu\korkuoyunu\bin\Debug\korkuoyunu.exe
+C:\Users\Casper\Desktop\korkuoyunu\korkuoyunu\bin\Debug\korkuoyunu.pdb
+C:\Users\Casper\Desktop\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.Form1.resources
+C:\Users\Casper\Desktop\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.Properties.Resources.resources
+C:\Users\Casper\Desktop\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.exe
+C:\Users\Casper\Desktop\korkuoyunu\korkuoyunu\obj\Debug\korkuoyunu.pdb
